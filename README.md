@@ -53,7 +53,7 @@ The dataset consists of ESG-related texts manually labeled into one of four clas
 
 
 Additional content was translated from high-quality global ESG corpora to Vietnamese and expanded using pseudo-labeling techniques to enrich coverage and improve generalization.
-Link: [Trungdjoon/Vietnam-ESG](https://huggingface.co/datasets/Trungdjoon/Vietnam-ESG)
+Link: `[Trungdjoon/Vietnam-ESG](https://huggingface.co/datasets/Trungdjoon/Vietnam-ESG)`
 ---
 
 
